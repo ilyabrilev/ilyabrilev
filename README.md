@@ -7,7 +7,7 @@ Web Developer
 with a bachelor’s degree in Information Technology and more than 10 years of programming experience.
 
 * 🌍  I'm based in Pattaya City, Thailand
-* 🧠  I'm learning Goland
+* 🧠  I'm learning Go
 
 ### Skills
 
